@@ -1,0 +1,47 @@
+/* 
+
+.light-bulb{
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: aliceblue;
+    margin: 5px;
+  }
+  
+  .light-bulb.red{
+    background-color: rgb(48, 2, 2);
+  }
+  
+  .light-bulb.red.active{
+    background-color: rgb(219, 80, 80);
+    outline: solid 3px #e57a7a66;
+  }
+  .light-bulb.yellow{
+    background-color: #404403;
+  }
+  
+  .light-bulb.yellow.active{
+    background-color: #e2c717;
+    outline: solid 3px #dae57a66;
+  }
+  .light-bulb.green{
+    background-color: #012903;
+  }
+  .light-bulb.green.active{
+    background-color: #25b12c;
+    outline: solid 3px #87e57a66;
+  }
+  .trafficLight{
+    border-radius: 6px;
+    border: 3px solid #4d4d4d;
+    background-color: #2b2b2b;
+    width: 56px;
+  }
+  .knopka{
+    background-color: #5c6d91;
+    margin-top: 20px;
+    border: 3px solid #2f0cfa;
+    color: #000;
+  } */
+  

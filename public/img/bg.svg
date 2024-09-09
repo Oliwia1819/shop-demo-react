@@ -1,0 +1,32 @@
+<svg width="390" height="702" viewBox="0 0 390 702" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4" filter="url(#filter0_f_26_3025)">
+<rect y="361" width="245" height="256" rx="36" fill="url(#paint0_linear_26_3025)"/>
+</g>
+<g opacity="0.2" filter="url(#filter1_f_26_3025)">
+<path d="M39.4559 177.026C42.3092 164.806 57.4774 160.477 66.3504 169.35L77.3855 180.386C78.4564 181.456 79.3698 182.674 80.0985 184.002L155.995 322.302C161.847 332.965 154.132 346 141.969 346H20.1664C9.86003 346 2.24203 336.398 4.58556 326.362L39.4559 177.026Z" fill="#6AC9FF"/>
+</g>
+<g opacity="0.1" filter="url(#filter2_f_26_3025)">
+<rect x="181" y="234" width="209" height="332" rx="86" fill="#FFCD48"/>
+</g>
+<defs>
+<filter id="filter0_f_26_3025" x="-164" y="197" width="573" height="584" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="82" result="effect1_foregroundBlur_26_3025"/>
+</filter>
+<filter id="filter1_f_26_3025" x="-159.841" y="0.652466" width="481.832" height="509.348" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="82" result="effect1_foregroundBlur_26_3025"/>
+</filter>
+<filter id="filter2_f_26_3025" x="17" y="70" width="537" height="660" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="82" result="effect1_foregroundBlur_26_3025"/>
+</filter>
+<linearGradient id="paint0_linear_26_3025" x1="245" y1="587.319" x2="4.20355" y2="414.626" gradientUnits="userSpaceOnUse">
+<stop stop-color="#28CE9C"/>
+<stop offset="1" stop-color="#6AC9FF"/>
+</linearGradient>
+</defs>
+</svg>
