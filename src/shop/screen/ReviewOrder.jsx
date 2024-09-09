@@ -5,6 +5,7 @@ import { CartContext, CartItemsContext } from "../Cart";
 import { items } from "./Items";
 import Rating from "./Rating";
 import { CountBlock } from "./ProductScreen";
+import { ColorSelect } from "./ProductScreen";
 
 
 export default function ReviewOrder(){
