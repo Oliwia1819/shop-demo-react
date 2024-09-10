@@ -4,9 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorkerRegistration from './serviceWorkerRegistration';
 import reportWebVitals from './reportWebVitals';
-import tests, { watermelon } from './tests';
-import Animalss from './zoo';
-import zoo from './zoo';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
@@ -25,7 +23,3 @@ serviceWorkerRegistration.unregister();
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 
-// tests();
-// Animalss();
-// zoo();
-// watermelon();

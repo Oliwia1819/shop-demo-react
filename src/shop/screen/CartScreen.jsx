@@ -7,9 +7,6 @@ import { CartItemsContext, CartContext} from '../Cart.jsx';
 import { items } from './Items.jsx';
 import Rating from "./Rating.jsx";
 import { ColorSelect, CountBlock } from './ProductScreen.jsx';
-import { disable } from 'workbox-navigation-preload';
-
-
 
   
 export default function ScreenCart(){

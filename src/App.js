@@ -1,8 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
 import './style.css';
-import { TrafficLights } from './TraficLight/TrafficLights';
-import { Game } from './Game';
 import Catalog from './shop/screen/Catalog';
 import {
   createBrowserRouter,
