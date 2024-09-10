@@ -17,6 +17,7 @@ import Checkout1, { CheckoutProvider } from './shop/screen/Checkout';
 import Checkout2 from './shop/screen/CheckCard';
 import CheckComplete from './shop/screen/CheckComplete';
 import ReviewOrder from './shop/screen/ReviewOrder';
+import LogIn from './shop/screen/LogIn';
 
 const router = createBrowserRouter([
   {
@@ -46,6 +47,10 @@ const router = createBrowserRouter([
   {
     path: "/review",
     element: <ReviewOrder />
+  },
+  {
+    path: "/login",
+    element: <LogIn />
   },
 ]);
 

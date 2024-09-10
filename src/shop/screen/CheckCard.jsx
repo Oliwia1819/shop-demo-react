@@ -12,7 +12,7 @@ export default function Checkout2(){
 
     const handleChange = (key) => e => setData(data => ({...data, [key]: e.target.value}))
     
-    return <Screen className="checkout2">
+    return <Screen back={'/checkout'} className="checkout2">
         <h1>Checkout</h1>
         <h2>Enter a payment method</h2>
         <h6>You will not be charged until you review your <br /> 

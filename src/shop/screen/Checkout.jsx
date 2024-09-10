@@ -5,6 +5,8 @@ import { Link } from 'react-router-dom';
 
 export default function Checkout1(){
     const data = useContext(CheckoutContext);
+    console.log(data);
+    
     const setData = useContext(CheckoutUpdateContext);
 
     const handleChange = (key) => e => setData(data => ({...data, [key]: e.target.value}))
@@ -15,7 +17,7 @@ export default function Checkout1(){
     //     }
     // }
 
-    return <Screen className='checkout1'>
+    return <Screen back={'/cart'} className='checkout1'>
         <h1>Checkout</h1>
         <h2>Enter a shipping address</h2>
         <LabelInput 

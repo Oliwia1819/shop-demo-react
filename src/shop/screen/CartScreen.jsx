@@ -32,7 +32,6 @@ export default function ScreenCart(){
             </div>
         </div>}
     </Screen>
-    
 }
     
 export function EmptyCart(){    
@@ -71,7 +70,7 @@ function CartItem({index, item}){
     </div>  
 }
 
-function TotalItems(){
+export function TotalItems(){
     const cartLength = useContext(CartItemsContext);
     
     return <div className='total_item'>
@@ -81,7 +80,7 @@ function TotalItems(){
     
 }
 
-function TotalPrice(){
+export function TotalPrice(){
     const cartItems = useContext(CartItemsContext);
     const sum = cartItems.reduce((accumulator, currentValue) => accumulator + currentValue.count * items.find(el => currentValue.id === el.id).price, 0);
   
